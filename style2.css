@@ -1,0 +1,11 @@
+img {
+    border: 5px solid black;
+    display:block;
+    margin:auto;
+}
+ol{
+   background-color: #CBC7C7;
+    font-size: 15px;
+   text-align: center;
+    font-family: 'Viga', sans-serif;
+}
